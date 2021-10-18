@@ -9,4 +9,5 @@ import {colors} from "@angular/cli/utilities/color";
 })
 export class AppComponent {
   name = 'Kamlesh';
+  username='';
 }
